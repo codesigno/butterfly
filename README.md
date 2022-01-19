@@ -1,24 +1,13 @@
-# vue-2-3dmodel
+# 3D Butterfly
 
-## Project setup
-```
-npm install
-```
+## Vue.js 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Check it out here: https://github.com/adelinatalia/butterfly
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Preview
 
-### Lints and fixes files
-```
-npm run lint
-```
+![screenshot](./src/assets/screenshot-butterfly.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live Demo
+
+[visit website](https://github.com/adelinatalia/butterfly)
