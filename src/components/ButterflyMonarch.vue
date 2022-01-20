@@ -34,7 +34,7 @@ export default {
 canvas {
   width: 95vw;
   height: 80vh;
-  background-image: url("../assets/blooming-field.jpg");
+  background-image: url("../assets/img/blooming-field.jpg");
   background-size: contain;
   background-repeat: no-repeat;
 }

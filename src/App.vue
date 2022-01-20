@@ -1,17 +1,24 @@
 <template>
   <div id="app">
-    <FigurMonarch />
+    <ButterflyMonarch />
   </div>
 </template>
 
 <script>
-import FigurMonarch from "./components/FigurMonarch.vue";
+import ButterflyMonarch from "./components/ButterflyMonarch.vue";
 import "./assets/css/main.css";
 
 export default {
   name: "App",
   components: {
-    FigurMonarch,
+    ButterflyMonarch,
   },
 };
 </script>
+
+<style>
+#app {
+  display: flex;
+  flex-direction: column;
+}
+</style>

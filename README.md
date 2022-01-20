@@ -1,13 +1,14 @@
 # 3D Butterfly
 
-## Vue.js 
+### WebApp based on Vue.js and deployed on GitHub Pages
 
-Check it out here: https://github.com/adelinatalia/butterfly
+Check it out here: https://adelinatalia.github.io/butterfly/
 
 ### Preview
 
-![screenshot](./src/assets/screenshot-butterfly.png)
+![screenshot](./src/assets/img/screenshot-butterfly.png)
+
 
 ### Live Demo
 
-[visit website](https://github.com/adelinatalia/butterfly)
+[visit website](https://adelinatalia.github.io/butterfly/)
