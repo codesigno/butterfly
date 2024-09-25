@@ -2,7 +2,7 @@
 
 ### WebApp based on Vue.js and deployed on GitHub Pages
 
-Check it out here: https://adelinatalia.github.io/butterfly/
+Check it out here: https://codesigno.github.io/butterfly/
 
 ### Preview
 
@@ -11,4 +11,4 @@ Check it out here: https://adelinatalia.github.io/butterfly/
 
 ### Live Demo
 
-[visit website](https://adelinatalia.github.io/butterfly/)
+[visit website](https://codesigno.github.io/butterfly/)
